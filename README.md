@@ -9,6 +9,9 @@ paginate: true
 
 # marp-template
 
-http://narumiruna.github.io/marp-template
+- http://narumiruna.github.io/marp-template
+- http://narumiruna.github.io/marp-template/docs/template.html
 
-http://narumiruna.github.io/marp-template/docs/template.html
+## Marpit Markdown
+
+- https://marpit.marp.app/markdown
