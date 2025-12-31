@@ -143,7 +143,7 @@ Marpit Markdown is compatible with standard Markdown editors. Slides look good e
 
 - Standard Markdown image syntax is supported:
   ```markdown
-  ![alt text](image.png)
+  ![alt text](https://via.placeholder.com/640x480.png)
   ```
 - Marpit extends image syntax for advanced slide design (e.g., background images, sizing via directives).
 
